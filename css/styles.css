@@ -1,0 +1,48 @@
+body{
+  width:100%;
+}
+
+ul{
+  list-style: none;
+
+
+}
+.container{
+  max-width: 100%;
+}
+
+.sidebar{
+  float:left;
+}
+
+.greenwindow{
+  background-color: lightgreen;
+  border-style: solid;
+  border-color: solid green;
+}
+
+.bluewindow{
+  background-color: lightblue;
+    border-style: solid;
+  border-color: solid blue;
+
+}
+.topwindow{
+  background-color: beige;
+    border-style: solid;
+  border-color: black;
+}
+
+.gheader{
+  background-color: green;
+}
+.bheader{
+  background-color: blue;
+}
+
+.pinkbox {
+  border-style: solid;
+  border-color: black;
+  float:left;
+  background-color: pink;
+}
